@@ -1,3 +1,0 @@
-Hello, GitHub > hello.txt
-
-echo Hello, GitHub
